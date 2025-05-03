@@ -1,15 +1,5 @@
-# 빌드 / 실행 중 생기는 폴더
 node_modules/
 .next/
 dist/
-
-# 로그 / 임시 파일
-*.log
-
-# 환경설정 파일
 .env
-
-# OS 자동 생성 파일
 .DS_Store
-Thumbs.db
-node_modules
